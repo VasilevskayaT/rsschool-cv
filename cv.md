@@ -6,5 +6,9 @@
 
 My main character traits are responsibility, good adapting skills in new teams and honesty, also I want to point out that I am not afraid of any difficulties. From my work I expect interesting and challenging tasks.
 Familiar with HTML, CSS, JavaScript. I have 965 points (4 kyu) on Codewars.
+
 Example of my code:
 function pigIt(str){return str.split(' ').map((item, i , arr) => {if(item==='?' || item==='!') return item; return item.slice(1)+item[0]+'ay'}).join(' ')}
+
+Secondary education, courses of a PC operator with knowledge of 1C: 1С: Bookkeeping.
+English level: A2
